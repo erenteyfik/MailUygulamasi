@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MailUygulamasi</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="mail_listesi">
+        <item>1. mail</item>
+        <item>2. mail</item>
+        <item>3. mail</item>
+        <item>4. mail</item>
+    </string-array>
+    
+    <string-array name="mail_icerik">
+        <item>1. mail içeriği</item>
+        <item>2. mail içeriği</item>
+        <item>3. mail içeriği</item>
+        <item>There is no usage guidance for this tag … yet!
+Usage guidance, also known as a tag wiki excerpt, is a short blurb that describes when and why a tag should be used on this site specifically.
+There is no tag wiki for this tag … yet!
+Tag wikis help introduce newcomers to the tag. They contain an overview of the topic defined by the tag, along with guidelines on its usage.
+All registered users may propose new tag wikis.
+(Note that if you have less than 20000 reputation, your tag wiki will be peer reviewed before it is published.)</item>
+    </string-array>
+    
+    <color name="primary">#006064</color>
+    <color name="primary_dark">#00BCD4</color>
+</resources>
